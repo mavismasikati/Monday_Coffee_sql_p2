@@ -10,3 +10,6 @@ KEY QUESTIONS
 
 1.Coffee Consumers Count
 How many people in each city are estimated to consume coffee, given that 25% of the population does?
+
+2.Sales Count for Each Product
+How many units of each coffee product have been sold?
