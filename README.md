@@ -1,1 +1,2 @@
-# Monday_Coffee_sql_p2
+# Monday Coffee  Extension using sql project 2
+
